@@ -144,3 +144,5 @@ if uploaded_file is not None:
             sentiment_df.style.background_gradient(cmap='RdYlGn', subset=['avg_sentiment']).format({'avg_sentiment': '{:.2f}'}))
 
 # Commit on 2025-08-12 - Created app.py and set up basic Flask application
+
+# Commit on 2025-08-13 - Added basic route and testing endpoint in app.py
