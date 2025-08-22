@@ -175,3 +175,5 @@ def sentiment_analysis(selected_user, df):
     return user_sentiment_df
 
 # Commit on 2025-08-18 - Created helper.py with tokenization and normalization utilities
+
+# Commit on 2025-08-22 - Improved helper.py with better text token handling
