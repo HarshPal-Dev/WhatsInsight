@@ -1284,3 +1284,5 @@ for(int
 https
 .com
 # Commit on 2025-08-19 - Added stop_words.txt with initial English stopwords list
+
+# Commit on 2025-08-23 - Expanded stop_words.txt with additional common words
