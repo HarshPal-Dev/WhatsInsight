@@ -93,3 +93,5 @@ streamlit run app.py
 Make sure your WhatsApp chat is exported as a `.txt` file (without media).
 
 ---
+
+# Commit on 2025-08-25 - Updated README.md with setup and run instructions
