@@ -177,3 +177,5 @@ def sentiment_analysis(selected_user, df):
 # Commit on 2025-08-18 - Created helper.py with tokenization and normalization utilities
 
 # Commit on 2025-08-22 - Improved helper.py with better text token handling
+
+# Commit on 2025-08-30 - Updated helper.py to handle empty or invalid strings
