@@ -97,3 +97,5 @@ Make sure your WhatsApp chat is exported as a `.txt` file (without media).
 # Commit on 2025-08-25 - Updated README.md with setup and run instructions
 
 # Commit on 2025-08-29 - Enhanced performance of text cleaning functions
+
+# Commit on 2025-09-01 - Reformatted README.md and added project overview
