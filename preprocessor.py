@@ -58,3 +58,5 @@ def preprocess(data):
 # Commit on 2025-08-15 - Implemented text cleaning functions in preprocessor.py
 
 # Commit on 2025-08-20 - Refined regex patterns in preprocessor.py for punctuation removal
+
+# Commit on 2025-09-05 - Optimized preprocessor.py by merging redundant loops
