@@ -152,3 +152,5 @@ if uploaded_file is not None:
 # Commit on 2025-08-28 - Improved error handling in app.py for invalid inputs
 
 # Commit on 2025-09-12 - Reorganized imports and structure in app.py
+
+# Commit on 2025-09-15 - Fixed minor typos in README.md and app.py
