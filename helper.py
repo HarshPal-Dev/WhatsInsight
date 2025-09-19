@@ -181,3 +181,5 @@ def sentiment_analysis(selected_user, df):
 # Commit on 2025-08-30 - Updated helper.py to handle empty or invalid strings
 
 # Commit on 2025-09-06 - Minor refactor in helper.py for readability
+
+# Commit on 2025-09-19 - Added inline comments to helper.py for maintainability
