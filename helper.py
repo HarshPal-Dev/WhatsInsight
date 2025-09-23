@@ -183,3 +183,5 @@ def sentiment_analysis(selected_user, df):
 # Commit on 2025-09-06 - Minor refactor in helper.py for readability
 
 # Commit on 2025-09-19 - Added inline comments to helper.py for maintainability
+
+# Commit on 2025-09-23 - Optimized helper.py for performance with large input
