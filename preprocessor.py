@@ -64,3 +64,5 @@ def preprocess(data):
 # Commit on 2025-09-10 - Cleaned and documented preprocessor.py functions
 
 # Commit on 2025-09-25 - Enhanced error messages in Flask routes
+
+# Commit on 2025-09-28 - Rewrote parts of preprocessor.py for clarity
