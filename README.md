@@ -101,3 +101,5 @@ Make sure your WhatsApp chat is exported as a `.txt` file (without media).
 # Commit on 2025-09-01 - Reformatted README.md and added project overview
 
 # Commit on 2025-09-08 - Added API usage examples to README.md
+
+# Commit on 2025-09-30 - Updated README.md with final project details
