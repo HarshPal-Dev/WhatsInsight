@@ -1,0 +1,27 @@
+setup project structure and initial files
+add basic Flask app to run chat analyzer
+implement preprocessing pipeline for WhatsApp chat text
+add stop words list and integration
+improve regex cleaning for timestamps and emojis
+test preprocessing with sample chat file
+implement word frequency counter for messages
+add sentiment analysis using TextBlob
+create helper functions for user-level stats
+optimize performance in preprocessing script
+update requirements.txt with missing libraries
+implement word cloud visualization
+add matplotlib support for chat trends
+fix minor bug in preprocessing related to empty lines
+add per-user message distribution chart
+implement active hours heatmap
+improve visualization color schemes
+add functionality to detect most replied messages
+update README with usage instructions
+clean unused imports and improve logging
+fix bug in word cloud generation with non-English text
+add extra stop words to stop_words.txt
+add emoji usage statistics
+implement longest conversation streak detection
+refine sentiment analysis scoring
+finalize README with screenshots and examples
+prepare stable release version
