@@ -45,12 +45,15 @@ def create_wordcloud(selected_user,df):
 
     f = open('stop_words.txt', 'r')
     stop_words = f.read()
+    f.close()
 
     if selected_user != 'Overall':
         df = df[df['user'] == selected_user]
 
     temp = df[df['user'] != 'group_notification']
     temp = temp[temp['message'] != '<Media omitted>\n']
+    # Ensure message column is string-typed before using .str accessor
+    temp['message'] = temp['message'].astype(str)
 
     def remove_stop_words(message):
         y = []
@@ -68,6 +71,7 @@ def most_common_words(selected_user,df):
 
     f = open('stop_words.txt','r')
     stop_words = f.read()
+    f.close()
 
     if selected_user != 'Overall':
         df = df[df['user'] == selected_user]
@@ -174,16 +178,3 @@ def sentiment_analysis(selected_user, df):
     
     return user_sentiment_df
 
-# Commit on 2025-08-18 - Created helper.py with tokenization and normalization utilities
-
-# Commit on 2025-08-22 - Improved helper.py with better text token handling
-
-# Commit on 2025-08-30 - Updated helper.py to handle empty or invalid strings
-
-# Commit on 2025-09-06 - Minor refactor in helper.py for readability
-
-# Commit on 2025-09-19 - Added inline comments to helper.py for maintainability
-
-# Commit on 2025-09-23 - Optimized helper.py for performance with large input
-
-# Commit on 2025-09-29 - Finalized helper.py and cleanup before deployment

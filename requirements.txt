@@ -7,6 +7,4 @@ textblob
 urlextract
 emoji
 networkx 
-# Commit on 2025-08-26 - Fixed dependency versions in requirements.txt
 
-# Commit on 2025-09-14 - Tweaked requirements.txt to include Flask explicitly

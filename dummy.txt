@@ -1,8 +1,0 @@
-
-# Commit on 2025-08-17 - Added sample data for testing in dummy.txt
-
-# Commit on 2025-09-02 - Extended dummy.txt with diverse input cases
-
-# Commit on 2025-09-21 - Fine-tuned preprocessor regex and stopword filtering
-
-# Commit on 2025-09-22 - Refined dummy.txt for better test coverage

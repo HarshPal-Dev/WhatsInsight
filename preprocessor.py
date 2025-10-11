@@ -55,16 +55,4 @@ def preprocess(data):
     df['period'] = period
 
     return df
-# Commit on 2025-08-15 - Implemented text cleaning functions in preprocessor.py
 
-# Commit on 2025-08-20 - Refined regex patterns in preprocessor.py for punctuation removal
-
-# Commit on 2025-09-05 - Optimized preprocessor.py by merging redundant loops
-
-# Commit on 2025-09-10 - Cleaned and documented preprocessor.py functions
-
-# Commit on 2025-09-25 - Enhanced error messages in Flask routes
-
-# Commit on 2025-09-28 - Rewrote parts of preprocessor.py for clarity
-
-# Commit on 2025-10-02 - Project stable and ready for deployment 
